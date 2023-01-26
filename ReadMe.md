@@ -19,7 +19,7 @@ Any feedback from users is welcome and you can write to me at hejarshahabi@gmail
 
   
 
-## Quick tutorial on how to use GeoPatch
+## Quick tutorial on how to use GeoPatch .
 
   
 
